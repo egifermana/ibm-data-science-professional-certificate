@@ -6,7 +6,7 @@ This repository serves as a record of my completion of the IBM Data Science Prof
 
 ## Certificate
 
-![Certificate of Completion](Certificate.pdf)
+![Certificate of Completion](Certificate.png)
 
 **Credential ID:** XYZ123 (Replace with your actual Credential ID)
 
